@@ -2,8 +2,8 @@ import math
 
 
 def main():
-    unused_value = 42
-    print(missing_name)
+    value = 16
+    print(math.sqrt(value))
 
 
 if __name__ == "__main__":
