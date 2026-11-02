@@ -1,5 +1,9 @@
+import math
+
+
 def main():
-    print("Hello from DSC 190 Assignment 05!")
+    value = 16
+    print(math.sqrt(value))
 
 
 if __name__ == "__main__":
